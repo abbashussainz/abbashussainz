@@ -41,8 +41,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img src ="https://upload.wikimedia.org/wikipedia/commons/a/a1/Istio-bluelogo-nobackground-unframed.svg"  alt="istio" title="istio" width="40" height="40"  >
 
 
-<h3>Editors & IDEs</h3>
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://static.cdnlogo.com/logos/v/69/vim.svg" alt="vim" title="vim" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 ### 📞 Contact
 Thank you for checking out my portfolio! If you have any questions or would like to discuss a potential project, 
