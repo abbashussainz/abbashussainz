@@ -8,11 +8,11 @@
 
 ## 🚀 Skills
 #### DevOps
-- 💻 Experience working with cloud infrastructure providers, including AWS, GCP, and Azure
+- 💻 Experience working with cloud infrastructure providers like AWS 
 - 🐳 Strong knowledge of containerization technologies, such as Docker and Kubernetes
-- 🛠️ Expertise in configuration management tools, such as Ansible and Chef
-- 🏗️ Familiarity with infrastructure-as-code tools, such as Terraform and CloudFormation
-- 🚦 Proficiency in CI/CD tools, such as Jenkins, CircleCI, and GitLab CI/CD
+- 🛠️ Expertise in configuration management tools, such as Ansible 
+- 🏗️ Well versed with infrastructure-as-code tools, such as Terraform 
+- 🚦  Proficiency in CI/CD tools, such as Jenkins
 - 📊 Experience with monitoring and logging tools, such as ELK stack, Prometheus, and Grafana
 - 🔧 Experience with Argo CD for continuous deployment and GitOps
 - 🌐 Knowledge of service mesh technologies such as Istio for traffic management and security
@@ -44,6 +44,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <h3>Editors & IDEs</h3>
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://static.cdnlogo.com/logos/v/69/vim.svg" alt="vim" title="vim" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
+## 📞 Contact
+Thank you for checking out my portfolio! If you have any questions or would like to discuss a potential project, please feel free to contact me at:
+
+📧 Email: abbashussain.x@gmail.com
+💼 LinkedIn: www.linkedin.com/in/abbas-hussain-z
+📁 GitHub: https://github.com/abbashussainz
 
 
 #### Ongoing Projects Porfolio Pinned Below 👇👇
