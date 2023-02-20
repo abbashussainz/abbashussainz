@@ -1,8 +1,8 @@
 # Hi, I am Abbas Hussain z, a DevOps Engineer 👋
 
-&rarr; Hi there! I'm a **DevOps Engineer** and **Backend Developer** with a focus on designing and building scalable and secure infrastructure to support software development and delivery. My expertise lies in DevOps practices, including continuous integration and deployment (CI/CD), configuration management, and cloud infrastructure automation.
+#### Hi there! I'm a **DevOps Engineer** and **Backend Developer** with a focus on designing and building scalable and secure infrastructure to support software development and delivery. My expertise lies in DevOps practices, including continuous integration and deployment (CI/CD), configuration management, and cloud infrastructure automation.
 
-&rarr; I have extensive experience in infrastructure-as-code (IaC) using Terraform, AWS, and EKS. I have worked on creating a variety of infrastructure for web applications, including serverless, containerized, and traditional architectures. I am experienced in building and deploying Docker images using CI/CD tools such as GitLab CI/CD and have also worked with Kubernetes and Helm.
+#### I have extensive experience in infrastructure-as-code (IaC) using Terraform, AWS, and EKS. I have worked on creating a variety of infrastructure for web applications, including serverless, containerized, and traditional architectures. I am experienced in building and deploying Docker images using CI/CD tools such as GitLab CI/CD and have also worked with Kubernetes and Helm.
 
 
 
@@ -13,7 +13,7 @@
 - 🛠️ Expertise in configuration management tools, such as **Ansible** 
 - 🏗️ Well versed with infrastructure-as-code tools, such as **Terraform** 
 - 🚦  Proficiency in CI/CD tools, such as **Jenkins**
-- 📊 Experience with monitoring and logging tools, such as **ELK stack, Prometheus, and Grafana
+- 📊 Experience with monitoring and logging tools, such as **ELK stack, Prometheus, and Grafana**
 - 🔧 Experience with **Argo CD** for continuous deployment and **GitOps**
 - 🌐 Knowledge of service mesh technologies such as **Istio** for traffic management and security
 
