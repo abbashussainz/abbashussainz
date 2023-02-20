@@ -48,8 +48,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 Thank you for checking out my portfolio! If you have any questions or would like to discuss a potential project, please feel free to contact me at:
 
 📧 Email: abbashussain.x@gmail.com
+<br/>
 💼 LinkedIn: www.linkedin.com/in/abbas-hussain-z
+<br/>
 📁 GitHub: https://github.com/abbashussainz
+<br/>
 
 
 #### Ongoing Projects Porfolio Pinned Below 👇👇
