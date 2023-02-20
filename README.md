@@ -1,30 +1,21 @@
 ### Hi, I am Abbas Hussain z, a DevOps Engineer 👋
 
-#### - 🔭 I' m currently working on DevOp projects, using tools like AWS, Jenkins, IAC with Terraform, and Ansible.
-#### - 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes.
-#### - 👯 I’m looking to collaborate on exciting software projects using DevOps principles.
-#### - 💬 Ask me about DevOps and Cloud.
-#### 📫 How to reach me: abbashussain.x@gmail.com
+#### Hi there! I'm a DevOps Engineer and Backend Developer with a focus on designing and building scalable and secure infrastructure to support software development and delivery. My expertise lies in DevOps practices, including continuous integration and deployment (CI/CD), configuration management, and cloud infrastructure automation.
+
+#### I have extensive experience in infrastructure-as-code (IaC) using Terraform, AWS, and EKS. I have worked on creating a variety of infrastructure for web applications, including serverless, containerized, and traditional architectures. I am experienced in building and deploying Docker images using CI/CD tools such as GitLab CI/CD and have also worked with Kubernetes and Helm.
 
 
 
-#### My Special Skills Are:
-
-1. Amazon Web Services (AWS); 
-
-2. AWS DevOps; 
-
-3. EKS (Amazon Elastic Kubernetes Service )
-
-4. Continuous Integration (CI); 
-
-5. Continuous Delivery and Continuous Deployment (CD); 
-
-6. Infrastructure as Code (laC); Infrastructure as a Service (laaS); 
-
-7. Platform as a Service (PaaS); 
-
-8. Software as a Service (SAAS)
+### 🚀 Skills
+#### DevOps
+💻 Experience working with cloud infrastructure providers, including AWS, GCP, and Azure
+🐳 Strong knowledge of containerization technologies, such as Docker and Kubernetes
+🛠️ Expertise in configuration management tools, such as Ansible and Chef
+🏗️ Familiarity with infrastructure-as-code tools, such as Terraform and CloudFormation
+🚦 Proficiency in CI/CD tools, such as Jenkins, CircleCI, and GitLab CI/CD
+📊 Experience with monitoring and logging tools, such as ELK stack, Prometheus, and Grafana
+🔧 Experience with Argo CD for continuous deployment and GitOps
+🌐 Knowledge of service mesh technologies such as Istio for traffic management and security
 
 
 
