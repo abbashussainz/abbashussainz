@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-### 📞 Contact
+## 📞 Contact
 Thank you for checking out my portfolio! If you have any questions or would like to discuss a potential project, 
 <br>
 please feel free to contact me at:
