@@ -32,8 +32,7 @@
 <h3>Programming Language </h3>
 <p align="left">  
 <img
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/>  <img src="https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
-" alt="bash" title="bash" title="bash" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" title="bash" title="bash" width="50" height="50" />
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/>  <img src="https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"  width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" title="bash" title="bash" width="50" height="50" />
 
 
 <h3>Web Development  </h3>
