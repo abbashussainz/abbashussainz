@@ -6,7 +6,7 @@
 
 
 
-## 🚀 Skills
+# 🚀 Skills
 #### DevOps
 - 💻 Experience working with cloud infrastructure providers like **AWS** 
 - 🐳 Strong knowledge of containerization technologies, such as **Docker** and **Kubernetes**
